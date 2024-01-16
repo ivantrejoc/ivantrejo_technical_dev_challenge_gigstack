@@ -10,7 +10,7 @@ The goal of this technical challenge is to prove the ability to solve a technica
 
 Imagine the following scenario:
 
-Two online stores (Ecommerce1, Ecommerce2) hit a sales their sales record in December 2023, many of their customers do not require an invoice so global invoices for these payments must be created at the end of the month. This function must be executed at 23:59 (America/Mexico_City timezone) on the last day of the month.
+Two online stores (Ecommerce1, Ecommerce2) hit their sales record in December 2023, many of their customers do not require an invoice so global invoices for these payments must be created at the end of the month. This function must be executed at 23:59 (America/Mexico_City timezone) on the last day of the month.
 
 Invoices can only be created in a single currency, and if the currency is different from (MXN) Mexican pesos, the exchange rate must be specified.
 
